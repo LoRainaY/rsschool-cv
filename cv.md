@@ -7,7 +7,7 @@ programming. Proven record of successfully completed self coded projects. Agile
 and flexible, open to learn and bring value to the company on a long lasting 
 partnership. Looking forward to use my Java skills to drive cost-effective solutions 
 for the company. Willing to relocate.
-***
+
 ## Contacts
 
 - Grodno
@@ -16,7 +16,7 @@ for the company. Willing to relocate.
 - Discord: Yana Zaitsava (@LoRainaY)
 - [LinkedIn](linkedin.com/in/yana-zaitsava-1758121b0)
 - [GitHub](https://github.com/LoRainaY)
-***
+
 ## Education
 **2020 IX – Present**
 
@@ -33,7 +33,7 @@ State Agrarian University, Grodno
 *Agronomist, Plant Protection*
 - Graduated with the Excellent grade, red diploma
 - Actively participated in student conferences and championships
-- ***
+
 ## Projects
 ### System of notes
 GitHub: [LoRainaY/spring_project_notes](https://github.com/LoRainaY/spring_project_notes)
@@ -45,14 +45,14 @@ GitHub: [LoRainaY/spring_project_notes](https://github.com/LoRainaY/spring_proje
   view them. A user with administrator rights can
   view all user notes, list of registered
   users, edit their logins and role in the system.
-***
+
 ## Skills
 - Java
 - HTML
 - Spring
 - Git
 - MySQL
-***
+
 ## Soft skills
 - Patience
 - Teamwork
@@ -64,11 +64,11 @@ GitHub: [LoRainaY/spring_project_notes](https://github.com/LoRainaY/spring_proje
 - Time management
 - Detail-oriented
 - Multitasking
-***
+
 ## Languages
 - Russian - native
 - English - elementary (attend classes)
-***
+
 
 
 
