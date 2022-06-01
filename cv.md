@@ -11,7 +11,9 @@ for the company. Willing to relocate.
 ## Contacts
 
 - Grodno
++ 375 (29) 233-87-92
 - zaitsava2.20@gmail.com
+- Discord: Yana Zaitsava (@LoRainaY)
 - [LinkedIn](linkedin.com/in/yana-zaitsava-1758121b0)
 - [GitHub](https://github.com/LoRainaY)
 ***
