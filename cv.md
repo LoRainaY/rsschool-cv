@@ -32,6 +32,18 @@ State Agrarian University, Grodno
 - Graduated with the Excellent grade, red diploma
 - Actively participated in student conferences and championships
 - ***
+## Projects
+### System of notes
+GitHub: [LoRainaY/spring_project_notes](https://github.com/LoRainaY/spring_project_notes)
+- Backend: Java + Spring Boot + Hibernate
+- Frontend: FreeMarker + CSS. BD: MySQL
+
+
+  An authorized user can add notes with tags,
+  view them. A user with administrator rights can
+  view all user notes, list of registered
+  users, edit their logins and role in the system.
+***
 ## Skills
 - Java
 - HTML
