@@ -1,4 +1,6 @@
-# Yana Zaitsava 
+<img alt="Photo cv" height="350" src="https://psv4.userapi.com/c237331/u82225761/docs/d19/13c84b1c5458/1645179025162.jpg?extra=B6bay6SDy4X7tf_DwTWOfluh6o_y54bWdBK4lhhhz2XDsCx1MsTbR7gWE-NcvWM1ulT_9U17U3nCpij2AQ9gz6tu3shPVZs5yDtqEFJpgy7_Jg94WsZgnwKa0mso5BSHzJdED7xv7OThUZoN2jcMqZ8" width="300"/>
+
+##Yana Zaitsava 
 ## Summary
 Passionate computer science student, eager to gain practical experience in Java 
 programming. Proven record of successfully completed self coded projects. Agile 
@@ -29,7 +31,7 @@ State Agrarian University, Grodno
 *Agronomist, Plant Protection*
 - Graduated with the Excellent grade, red diploma
 - Actively participated in student conferences and championships
-***
+- ***
 ## Skills
 - Java
 - HTML
@@ -51,7 +53,7 @@ State Agrarian University, Grodno
 ***
 ## Languages
 - Russian - native
-- English - elementary (but I attend classes)
+- English - elementary (attend classes)
 ***
 
 
