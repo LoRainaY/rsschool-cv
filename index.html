@@ -1,51 +1,229 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">    
-    <link rel="stylesheet" href="assets/css/style.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/style.css" />
     <title>CV version HTML&CSS</title>
 </head>
+
 <body>
-   <div class="main_container">
-       <div class="header">
-            <div class="photo">
-               <img src="/assets/img/yana.jpg"alt="Yana cv photo"/>
-           </div>
-           
+    <div class="main_container">
+        <header>
+        <div class="photo">
+                <img src="/assets/img/yana.jpg" alt="Yana cv photo" />
+        </div>
+        <div class="profile-info">
+
             <div class="name">Yana Zaitsava</div>
             <div class="contacts">
                 <ul>
-                    <li><img src="/assets/img/tel.png" alt="tel_logo"/><a href="zaitsava2.20@gmail.com"></a>zaitsava2.20@gmail.com</li>
-                    <li><img src="/assets/img/email.png" alt="email_logo"/> +375 (29) 233-87-92</li>
-                    <li><img src="/assets/img/github.png" alt="github_logo"/><a href="https://github.com/LoRainaY">LoRainaY</a></li>
-                    <li><img src="/assets/img/linkedin.png" alt="linkedin_logo"/><a href="https://linkedin.com/in/yana-zaitsava-1758121b0">LinkedIn</a></li>
-                    <li><img src="/assets/img/discord.png" alt="discord_logo"/>Yana Zaitsava(@LoRainaY)</li>
+                    <li><img src="/assets/img/tel.png" alt="tel_logo" /><a
+                            href="zaitsava2.20@gmail.com"></a>zaitsava2.20@gmail.com</li>
+                    <li><img src="/assets/img/email.png" alt="email_logo" /> +375 (29) 233-87-92</li>
+                    <li><img src="/assets/img/github.png" alt="github_logo" /><a
+                            href="https://github.com/LoRainaY">LoRainaY</a></li>
+                    <li><img src="/assets/img/linkedin.png" alt="linkedin_logo" /><a
+                            href="https://linkedin.com/in/yana-zaitsava-1758121b0">LinkedIn</a></li>
+                    <li><img src="/assets/img/discord.png" alt="discord_logo" />Yana Zaitsava(@LoRainaY)</li>
                 </ul>
             </div>
-            
         </div>
-        <div class="nav">
+        </header>
+        <nav>
             <ul class="horizontal gray">
-                <li><a href="#">Education</a></li>
-                <li><a href="#">Projects</a></li>
-                <li><a href="#">Skills</a></li>
-                <li><a href="#">Soft skills</a></li>
-                <li><a href="#">Languages</a></li>
-              </ul>
-        </div>
-
-       </div>
-       <div class="main">
-
-       </div>
-       <div class="footer">
-
-       </div>
-   </div>
+                <li><a href="#education-link">Education</a></li>
+                <li><a href="#projects-link">Projects</a></li>
+                <li><a href="#skills-link">Skills</a></li>
+                <li><a href="#lang-link">Languages</a></li>
+            </ul>
+        </nav>
 
 
-  
+        <main>
+            <section class="summary-block">
+                <h2>Summary</h2>
+                <p>Passionate computer science student, eager to gain practical experience in Java
+                    programming. Proven record of successfully completed self coded projects. Agile
+                    and flexible, open to learn and bring value to the company on a long lasting
+                    partnership. Looking forward to use my Java skills to drive cost-effective solutions
+                    for the company.</p>
+            </section>
+
+            <section class="sec-education" id="education-link">
+                <h2>Education</h2>
+                <div class="education">
+
+                    <div class="info-educ">
+                        <div class="date">2020 IX – Present</div>
+                        <div class="university">Institute of IT and Business-Administration, Minsk</div>
+                        <div class="speciality">Programmer</div>
+                        <div class="technologies">
+                            <ul>
+                                <li>HTML</li>
+                                <li>CSS</li>
+                                <li>Git</li>
+                                <li>Java</li>
+                                <li>Python</li>
+                                <li>Microsoft SQL Server</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="info-educ">
+                        <div class="date">2015 IX – 2020 I</div>
+                        <div class="university">State Agrarian University, Grodno</div>
+                        <div class="speciality">Agronomist, Plant Protection</div>
+                        <div class="achievements">
+                            <ul>
+                                <li>Graduated with the Excellent grade, red diploma</li>
+                                <li>Actively participated in student conferences and championships</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+
+            <section class="sec-project" id="projects-link">
+                <h2>Projects</h2>
+                <div class="project">
+
+                    <div class="info-project">
+                        <div class="name-project">
+                            <h3>System of notes</h3>
+                        </div>
+                        <div class="github-link"><a href="https://github.com/LoRainaY/spring_project_notes">GitHub
+                                link</a></div>
+                        <div class="tec-info">
+                            <ol>
+                                <li>Backend:
+                                    <ul>
+                                        <li>Java</li>
+                                        <li>Spring Boot</li>
+                                        <li>Hibernate</li>
+                                        <li>MySQL</li>
+                                    </ul>
+                                </li>
+                                <li>Frotend
+                                    <ul>
+                                        <li>FreeMarker</li>
+                                        <li>CSS</li>
+                                    </ul>
+                            </ol>
+                            An authorized user can add notes with tags,
+                            view them. A user with administrator rights can
+                            view all user notes, list of registered
+                            users, edit their logins and role in the system.
+                        </div>
+                    </div>
+                    <div class="info-project">
+                        <div class="name-project">
+                            <h3>Tour order system</h3>
+                        </div>
+                        <div class="github-link"><a href="https://github.com/LoRainaY/springboot_touristsite">GitHub
+                                link</a></div>
+                        <div class="tec-info">
+                            <ol>
+                                <li>Backend:
+                                    <ul>
+                                        <li>Java</li>
+                                        <li>Spring Boot</li>
+                                        <li>Hibernate</li>
+                                        <li>MySQL</li>
+                                    </ul>
+                                </li>
+                                <li>Frotend
+                                    <ul>
+                                        <li>Bootstrap</li>
+                                        <li>JavaScript</li>
+                                        <li>Thymeleaf</li>
+                                    </ul>
+                            </ol>
+                        </div>
+                        Booking a tour using a loyalty program. The app automatically calculates
+                        the discount on your next booking based on completed bookings.
+                    </div>
+                </div>
+            </section>
+            <section class="sec-skill" id="skills-link">
+                <h2>Skills</h2>
+                <div class="skill-container">
+                    <div>
+                        <section>
+                            <h2>Hard skills</h2>
+                            <ul>
+                                <li>Java</li>
+                                <li>HTML</li>
+                                <li>Spring</li>
+                                <li>Git</li>
+                                <li>MySQL</li>
+                            </ul>
+                        </section>
+                    </div>
+                    <div>
+                        <section>
+                            <h2>Soft skills</h2>
+                            <ul>
+                                <li>Patience</li>
+                                <li>Teamwork</li>
+                                <li>Problem-Solving</li>
+                                <li>Critical Thinking</li>
+                                <li>Flexibility</li>
+                            </ul>
+                        </section>
+                    </div>
+
+                </div>
+            </section>
+            <section class="sec-code-example">
+                <h2>Code Example</h2>
+                <div class="code-container">
+                    <div class="code1">
+                    <code>$(document).ready(function () {
+                    $('.nBtn, .card-deck .eBtn').on('click', function (event) {<br>
+                        event.preventDefault();<br>
+                        var href = $(this).attr('href');<br>
+                        var text = $(this).text();<br>
+                        $.get(href, function (tour, status) {<br>
+                                $('.myForm #id').val(tour.id);<br>
+                                $('.myForm #title').val(tour.title);<br>
+                                $('.myForm #description').val(tour.description);<br>
+                                $('.myForm #startTime').val(tour.startTime);<br>
+                                $('.myForm #endTime').val(tour.endTime);<br>
+                                $('.myForm #price').val(tour.price);<br>
+                            });<br><br>
+                
+                            $('.myForm #exampleModal').modal();<br>                        
+                    });<br>
+                });</code>
+            </div></div>
+            </section>
+            <section class="sec-lang" id="lang-link">
+                <h2>Languages</h2>
+                <div class="lang">
+
+                    <ul>
+                        <li>Russian - native</li>
+                        <li>English - elementary (attend classes)</li>
+                    </ul>
+                </div>
+            </section>
+
+
+
+        </main>
+        <footer>
+            <div class="about">
+                Created by <a href="https://github.com/LoRainaY">Yana Zaitsava</a> for  
+                <a href="https://rs.school/js/"><img src="https://avatars.githubusercontent.com/u/11501370?s=200&v=4" alt="rs school"></a>
+            </div>
+        </footer>
+    </div>
+
+
+
 </body>
+
 </html>
